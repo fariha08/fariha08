@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Tasnim Akter Fariha
 - 🌱 I’m currently studing CSE at Brac University
-- 👯 I’m interested in frontend developing
+- 👯 I’m interested in frontend developing 
